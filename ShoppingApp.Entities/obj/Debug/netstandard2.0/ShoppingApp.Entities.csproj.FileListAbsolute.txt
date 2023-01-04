@@ -1,0 +1,10 @@
+E:\xamarin-shopping-cart-master\ShoppingApp.Entities\bin\Debug\netstandard2.0\ShoppingApp.Entities.deps.json
+E:\xamarin-shopping-cart-master\ShoppingApp.Entities\bin\Debug\netstandard2.0\ShoppingApp.Entities.dll
+E:\xamarin-shopping-cart-master\ShoppingApp.Entities\bin\Debug\netstandard2.0\ShoppingApp.Entities.pdb
+E:\xamarin-shopping-cart-master\ShoppingApp.Entities\obj\Debug\netstandard2.0\ShoppingApp.Entities.csproj.AssemblyReference.cache
+E:\xamarin-shopping-cart-master\ShoppingApp.Entities\obj\Debug\netstandard2.0\ShoppingApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\xamarin-shopping-cart-master\ShoppingApp.Entities\obj\Debug\netstandard2.0\ShoppingApp.Entities.AssemblyInfoInputs.cache
+E:\xamarin-shopping-cart-master\ShoppingApp.Entities\obj\Debug\netstandard2.0\ShoppingApp.Entities.AssemblyInfo.cs
+E:\xamarin-shopping-cart-master\ShoppingApp.Entities\obj\Debug\netstandard2.0\ShoppingApp.Entities.csproj.CoreCompileInputs.cache
+E:\xamarin-shopping-cart-master\ShoppingApp.Entities\obj\Debug\netstandard2.0\ShoppingApp.Entities.dll
+E:\xamarin-shopping-cart-master\ShoppingApp.Entities\obj\Debug\netstandard2.0\ShoppingApp.Entities.pdb

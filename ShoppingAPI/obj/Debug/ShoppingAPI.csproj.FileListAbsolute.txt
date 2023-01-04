@@ -1,0 +1,2 @@
+E:\xamarin-shopping-cart-master\ShoppingAPI\obj\Debug\ShoppingAPI.csproj.AssemblyReference.cache
+E:\xamarin-shopping-cart-master\ShoppingAPI\obj\Debug\ShoppingAPI.csproj.CoreCompileInputs.cache
